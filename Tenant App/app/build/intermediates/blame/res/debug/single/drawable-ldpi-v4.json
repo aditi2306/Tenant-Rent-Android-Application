@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Ask_V\\Sdl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_exit_to_app_black_24dp.png",
+        "source": "D:\\Ask_V\\Sdl\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_exit_to_app_black_24dp.png"
+    },
+    {
+        "merged": "D:\\Ask_V\\Sdl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_info_black_24dp.png",
+        "source": "D:\\Ask_V\\Sdl\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_info_black_24dp.png"
+    },
+    {
+        "merged": "D:\\Ask_V\\Sdl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_launcher_background.png",
+        "source": "D:\\Ask_V\\Sdl\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    }
+]

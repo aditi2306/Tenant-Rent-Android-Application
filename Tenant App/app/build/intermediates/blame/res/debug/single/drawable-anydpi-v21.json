@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\Ask_V\\Sdl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_exit_to_app_black_24dp.xml",
+        "source": "D:\\Ask_V\\Sdl\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_exit_to_app_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Ask_V\\Sdl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_info_black_24dp.xml",
+        "source": "D:\\Ask_V\\Sdl\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_info_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Ask_V\\Sdl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\da63e2f537edef97df9313fba0ae3051\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "D:\\Ask_V\\Sdl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml",
+        "source": "D:\\Ask_V\\Sdl\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\Ask_V\\Sdl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\da63e2f537edef97df9313fba0ae3051\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+    }
+]
